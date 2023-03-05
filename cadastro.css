@@ -30,7 +30,7 @@ header {
 
 #menu-h ul li a {
     display: inline-block;
-    color: black;
+    color: rgb(10, 80, 19);
     text-decoration: none;
     padding: 23px;
     transition: background .4s;
@@ -47,6 +47,8 @@ header {
 }
 h2{
     background-color: #047436;
+    font-style: italic;
+   color: #ffff;
 }
 
 .navbar-items {
