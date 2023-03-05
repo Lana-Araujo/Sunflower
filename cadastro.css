@@ -43,8 +43,11 @@ header {
 .navbar-logo {
     margin-left: 5px;
     margin-top: 10px;
-}
 
+}
+h2{
+    background-color: #047436;
+}
 
 .navbar-items {
     margin-left: 5px;
