@@ -60,4 +60,8 @@
     95% {margin-left: -300%;}
     100% {margin-left: -400%;}
 }
-
+button {
+  all: unset;
+  cursor: pointer;
+  outline: revert;
+}
