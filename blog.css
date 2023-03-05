@@ -8,3 +8,53 @@ html, body{
     height: 100%;
 }
 
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.clear{
+    clear: both;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.header{
+    height: 80px;
+    background-color: rgb(167, 117, 117);
+}
+
+section.box-capture{
+    height: 300px;
+    background-color: gray;
+}
+
+section.content{
+    height: 300px;
+    background-color: rgb(169, 18, 18);
+    padding: 0 12%;
+
+}
+
+div.post{
+    height: 100%;
+    background-color: blue;
+    width: 80%;
+}
+
+div.sidebar{
+    height: 100%;
+    background-color: rgb(79, 164, 122);
+    width: 20%;
+}
+
+footer{
+    width: 180px;
+    background-color: black;
+}
