@@ -46,7 +46,12 @@ header {
 
 }
 h2{
-    background-color: #047436;
+   
     font-style: italic;
    color: #ffff;
 }
+button {
+    all: unset;
+    cursor: pointer;
+    outline: revert;
+  }
