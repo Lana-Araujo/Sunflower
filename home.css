@@ -95,3 +95,29 @@ button {
   cursor: pointer;
   outline: revert;
 }
+
+.footer-icons {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #8FCC72;
+}
+
+.items-social-media {
+    color:black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+    background-color: #8FCC72;
+}
+
+.footer-link {
+    color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #8FCC72;
+}
