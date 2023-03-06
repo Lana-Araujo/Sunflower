@@ -87,7 +87,7 @@ a.links {
 h1 {
     font-size: 48px;
     color: #8FCC72;
-    padding: 2px 0 10px 0;
+     padding: 2px 0 10px 0;
     font-family: Arial, sans-serif;
     font-weight: bold;
     text-align: center;
@@ -170,7 +170,7 @@ input[type="submit"] {
 /*estilo do botão submit no hover */
 input[type="submit"]:hover {
     background: #8FCC72;
-}
+
     .link {
         position: absolute;
         background: #e1eaeb;
