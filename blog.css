@@ -43,6 +43,7 @@ header {
 
 #menu-h ul li a:hover {
     background-color: #f1d04a;
+    text-decoration: none;
 }
 
 .navbar-logo {
