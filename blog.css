@@ -24,6 +24,7 @@ header {
     padding: 0%;
     background-color: #8fcc72;
     text-align: center;
+    text-decoration: none;
 }
 
 #menu-h ul li {
@@ -37,6 +38,7 @@ header {
     text-decoration: none;
     padding: 30px;
     transition: background .4s;
+    text-decoration: none;
 }
 
 #menu-h ul li a:hover {
